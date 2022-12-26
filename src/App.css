@@ -1,0 +1,30 @@
+.img{
+  width:100px;
+  height:100px;
+  filter: drop-shadow(8px 8px 10px rgb(231, 226, 226));
+}
+
+.cartImg{
+  width:100px;
+  position:absolute;
+  top:1%;
+  right:1%;
+}
+
+.item{
+  float:left;
+  padding: 20px;
+}
+
+.cart-wrapper{
+  text-align: center;
+  height:150px;
+  width:700px;
+  padding: 10px;
+  border:1px solid #ccc;
+  margin-left: 10%;
+}
+
+.button{
+  box-shadow: #333 5px 5px 5px;
+}
